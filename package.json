@@ -1,0 +1,23 @@
+{
+  "name": "mathongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtyagi-9/mathongo.git"
+  },
+  "author": "Dev Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtyagi-9/mathongo/issues"
+  },
+  "homepage": "https://github.com/Dtyagi-9/mathongo#readme",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}
